@@ -5,7 +5,7 @@ const NavBar = ()=>{
     return (
         <div className='container'>
             <div className='logo'>
-                <img src="logo.png" width={143} height={30.3} />
+                <img src="logo.png" width={143} height={30.3} alt='logo' />
             </div>
             
             <div className="menu">
