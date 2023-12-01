@@ -1,0 +1,32 @@
+/* navBar.css */
+
+div {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    
+}
+
+.container{
+    display: contents;
+    
+}
+
+.menu {
+    color: var(--css-white);
+    font-weight: 600;
+    font-size: 16px;
+    display: flex;
+    gap: 40px;
+    width: 431px;
+    height: 26px;
+    align-items: center; 
+}
+
+.menu p {
+    margin: 0;
+}
+
+.button{
+    color: var(--css-white);
+}
