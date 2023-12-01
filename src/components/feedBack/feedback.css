@@ -1,0 +1,6 @@
+.heading{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 54px;
+    padding-left: 150px
+}

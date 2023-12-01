@@ -3,6 +3,7 @@ import HeroSection from './components/heroSection/heroSection';
 import Intro from './components/intro/intro';
 import SuccessRate from './components/successRate';
 import Area from './components/area';
+import FeedBack from './components/feedBack/feedBack';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Intro />
       <SuccessRate />
       <Area />
+      <FeedBack />
     </div>
     </div>
   );
