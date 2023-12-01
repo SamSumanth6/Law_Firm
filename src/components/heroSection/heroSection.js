@@ -3,7 +3,7 @@ import './heroSection.css'; // Make sure to import your heroSection.css file
 
 const HeroSection = () => {
   return (
-    <div className='container'>
+    <div className='container' style={{padding:'6px', paddingBottom:'100px'}}>
       <div>
         <div className='hero-text'>
             <p className="hero-heading" style={{ color: "var(--css-white)", fontWeight: "500", fontSize: "66px" }}>
