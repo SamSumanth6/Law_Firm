@@ -1,7 +1,7 @@
 
 const Faqs = ()=>{
     return(
-        <div style={{color:'var(--css-white)', display:'flex', justifyContent:'space-bwtween',padding: '0px 90px',paddingBttom: '100px'}}>
+        <div style={{color:'var(--css-white)', display:'flex', justifyContent:'space-between',padding: '0px 90px',paddingBottom: '100px'}}>
             <div >
             <p style={{fontWeight:'600', fontSize:'54px'}}>FAQ</p>
             <p style={{fontWeight:'500', fontSize:'18px', color:'gray',padding:'25px 0px'}}>Amet minim mollit non deserunt ullamco est sit<br/> aliqua dolor do amet sint.</p>

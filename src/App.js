@@ -6,6 +6,8 @@ import Area from './components/area';
 import FeedBack from './components/feedBack/feedBack';
 import Team from './components/team/team';
 import Faqs from './components/faqs/faqs';
+import Subscribe from './components/subscribe/subscribe';
+import Footer from './components/footer/footer';
 import './App.css';
 
 function App() {
@@ -22,6 +24,13 @@ function App() {
       <FeedBack />
       <Team />
       <Faqs />
+      <div style={{backgroundColor:'#444141'}}>
+      <Subscribe />
+      </div >
+      <div style={{backgroundColor:'var(--css-black)'}}>
+        <Footer />
+      </div>
+      
     </div>
     </div>
   );
