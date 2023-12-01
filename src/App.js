@@ -4,6 +4,7 @@ import Intro from './components/intro/intro';
 import SuccessRate from './components/successRate';
 import Area from './components/area';
 import FeedBack from './components/feedBack/feedBack';
+import Team from './components/team/team';
 import './App.css';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <SuccessRate />
       <Area />
       <FeedBack />
+      <Team />
     </div>
     </div>
   );
