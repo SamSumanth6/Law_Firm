@@ -1,18 +1,12 @@
 /* navBar.css */
 
-div {
+.container {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     align-items: center;
-    
-}
-
-.container{
-    display: contents;
-    
-}
-
-.menu {
+  }
+  
+  .menu {
     color: var(--css-white);
     font-weight: 600;
     font-size: 16px;
@@ -20,13 +14,14 @@ div {
     gap: 40px;
     width: 431px;
     height: 26px;
-    align-items: center; 
-}
-
-.menu p {
+    align-items: center;
+  }
+  
+  .menu p {
     margin: 0;
-}
-
-.button{
+  }
+  
+  .button {
     color: var(--css-white);
-}
+  }
+  
