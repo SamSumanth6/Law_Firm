@@ -1,0 +1,10 @@
+.heading{
+    font-weight: 600;
+    font-size: 54px;
+    color: var(--css-white);
+    display: flex;
+    justify-content: center;
+}
+.card{
+    color: var(--css-white);
+}

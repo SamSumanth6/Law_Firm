@@ -1,6 +1,7 @@
 import NavBar from './components/nabBar/navBar';
 import HeroSection from './components/heroSection/heroSection';
 import Intro from './components/intro/intro';
+import SuccessRate from './components/successRate';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     </div>
     <div style={{ backgroundColor: '#1c1b1b' }}>
       <Intro />
+      <SuccessRate />
     </div>
     </div>
   );
